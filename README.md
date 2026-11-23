@@ -57,7 +57,7 @@ The research highlights the importance of:
 
 The complete research brief is available in this repository as a two-page document.
 
-**File:** `Cyber_Threat_Landscape_Internship_Ready_Fixed_Links.docx`
+**File:** `Project1-Cyber Threat Landscape Brief.docx`
 
 ## Conclusion
 
